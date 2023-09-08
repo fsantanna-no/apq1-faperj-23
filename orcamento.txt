@@ -1,0 +1,19 @@
+Computadores    3   6500    um computador para cada pesquisador
+Monitores       5   1000    um monitor para cada computador + dois para reposição imediata
+Notebook        1   9500    notebook compartilhado para atividades em outros laboratórios, aulas, e apresentações
+Projetor        1   7750    projetor para apresentações no laboratório
+
+- Inspiron 24 All in One:
+    - R$ 6500
+    - https://www.dell.com/pt-br/shop/computadores-all-in-ones-e-workstations/inspiron-24-all-in-one/spd/inspiron-24-5420-aio/aio5420w1254w
+- Monitor 21.5" Dell P2222H:
+    - R$ 1000
+    - https://www.dell.com/pt-br/shop/monitor-215-dell-p2222h/apd/210-bcet/monitores-e-acess%C3%B3rios
+- Notebook XPS 13 Plus
+    - R$ 9500
+    - https://www.dell.com/pt-br/shop/notebooks/notebook-xps-13-plus/spd/xps-13-9320-laptop/x9320w1700rw
+- Projetor Multimidia BENQ 3500 Lumens - Curta Distancia - XGA - MX825STH
+    - R$ 7750
+    - https://www.magazineluiza.com.br/projetor-multimidia-benq-3500-lumens-curta-distancia-xga-mx825sth/p/cf1416dbaa/et/eapj/
+
+

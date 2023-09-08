@@ -145,8 +145,8 @@ os benefícios de controle de abuso, tipicamente associados a sistemas
 permissionados, mas também acrescentar os benefícios de descentralização,
 tipicamente associados a sistemas não permissionados.
 
-Cronograma:
-https://docs.google.com/spreadsheets/d/1axP4RduwWCXfzI0iOISHWlQHhnmHxttTaO-5bkHAnkQ/edit#gid=399060574
+- Cronograma:
+    - https://docs.google.com/spreadsheets/d/1axP4RduwWCXfzI0iOISHWlQHhnmHxttTaO-5bkHAnkQ/edit#gid=399060574
 
 # Resultados Esperados - (Máximo de 9000 caracteres):
 
@@ -169,6 +169,7 @@ https://docs.google.com/spreadsheets/d/1axP4RduwWCXfzI0iOISHWlQHhnmHxttTaO-5bkHA
 
 Além do proponente, existem dois alunos de Mestrado trabalhando com o sistema
 Freechains:
+
 - O Lucas d'Amaral está avaliando sistemas de reputação centralizados para
   futura comparação com o sistema não permissionado.
 - A Cláudia Bartholomeu está iniciando um trabalho com Smart Grids que deve
@@ -194,7 +195,7 @@ simulações.
 
 # Potenciais veículos de apresentação de resultados - (Máximo de 9000 caracteres):
 
-Journals:
+Revistas:
 
 - Peer-to-Peer Networking and Applications
 - Ad-Hoc Networks
@@ -207,10 +208,34 @@ Conferências:
 
 - SBSeg: Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais
 - SBRC:  Simpósio Brasileiro de Redes de Computadores
-- P2PTM: International Conference on Peer-to-Peer Networks and Trust Management 
+- P2PTM: International Conference on Peer-to-Peer Networks and Trust Management
 - DEBS:  International Conference on Distributed and Event‐Based Systems
 
 # Orçamento detalhado e justificado - (Máximo de 9000 caracteres):
+
+O orçamento inclui computadores e monitores para a equipe de pesquisa.
+Também inclui um notebook para atividades fora do laboratório de pesquisa,
+além de um projetor para apresentações no laboratório.
+
+O valor total é de R$41750.
+
+- Computadores    3   6500    um computador para cada pesquisador
+- Monitores       5   1000    um monitor para cada computador + dois para reposição imediata
+- Notebook        1   9500    notebook compartilhado para atividades em outros laboratórios, aulas, e apresentações
+- Projetor        1   7750    projetor para apresentações no laboratório
+
+- Inspiron 24 All in One:
+    - R$ 6500
+    - https://www.dell.com/pt-br/shop/computadores-all-in-ones-e-workstations/inspiron-24-all-in-one/spd/inspiron-24-5420-aio/aio5420w1254w
+- Monitor 21.5" Dell P2222H:
+    - R$ 1000
+    - https://www.dell.com/pt-br/shop/monitor-215-dell-p2222h/apd/210-bcet/monitores-e-acess%C3%B3rios
+- Notebook XPS 13 Plus
+    - R$ 9500
+    - https://www.dell.com/pt-br/shop/notebooks/notebook-xps-13-plus/spd/xps-13-9320-laptop/x9320w1700rw
+- Projetor Multimidia BENQ 3500 Lumens - Curta Distancia - XGA - MX825STH
+    - R$ 7750
+    - https://www.magazineluiza.com.br/projetor-multimidia-benq-3500-lumens-curta-distancia-xga-mx825sth/p/cf1416dbaa/et/eapj/
 
 # Bibliografia relacionada ao projeto - (Máximo de 9000 caracteres):
 
@@ -250,14 +275,14 @@ Report, available online, 28
 
 # Especialidade 1/4 - (Máximo de 45 caracteres):
 
-Redes e Sistemas Distribuídos
-Redes e Sistemas Peer-to-Peer
-Algoritmos de Consenso Distribuído
-Distributed Ledgers Technologies
+- Redes e Sistemas Distribuídos
+- Redes e Sistemas Peer-to-Peer
+- Algoritmos de Consenso Distribuído
+- Distributed Ledgers Technologies
 
 # Palavra Chave 1/4 - (Máximo de 45 caracteres):
 
-blockchains
-proof of authoring
-reputation systems
-consensus algorithm
+- blockchains
+- proof of authoring
+- reputation systems
+- consensus algorithm
